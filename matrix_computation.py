@@ -16,4 +16,4 @@ def matrix_computation(A, B):
     # Compute the inverse of A
     A_inverse = np.linalg.inv(A)
 
-    return A_plus_B, A_minus
+    return A_plus_B, A_minus_B
